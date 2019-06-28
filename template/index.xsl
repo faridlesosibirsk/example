@@ -17,7 +17,7 @@
 
         <xsl:apply-templates select="//info"/>
 
-        <xsl:apply-templates select="//root"/>
+        <xsl:apply-templates select="//history"/>
 
       </body>
     </html>
@@ -25,7 +25,7 @@
 
   <xsl:include href="info.xsl"/>
 
-  <xsl:include href="root.xsl"/>
+  <xsl:include href="history.xsl"/>
 
   <xsl:include href="bootstrap3/btn-success.xsl"/>
 

@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="WINDOWS-1251" ?>
 <?xml-stylesheet type="text/xsl" href="template/index.xsl" ?>
-<book>
+<post>
   <info>
     <row>
-      <col-sm-4>.col-sm-4</col-sm-4>
-      <col-sm-4>.col-sm-4</col-sm-4>
-      <col-sm-4>.col-sm-4</col-sm-4>
+      <col-sm-4>1111</col-sm-4>
+      <col-sm-4>2222</col-sm-4>
+      <col-sm-4>333333</col-sm-4>
     </row>
+    <h1>H1111111111</h1>
     <well>dfgdtg</well>
     <btn-success>2wefwef222222222</btn-success>
     <well>11111w11111</well>
     <well-sm>55555555555555555</well-sm>
   </info>
-  <root>
+  <history>
     <well>444444</well>
     <btn-success>2222222222</btn-success>
     <well>13333333333</well>
     <row>
-      <col-sm-4>.col-sm-4</col-sm-4>
-      <col-sm-4>.col-sm-4</col-sm-4>
-      <col-sm-4>.col-sm-4</col-sm-4>
+      <col-sm-4>4444444</col-sm-4>
+      <col-sm-4>555</col-sm-4>
+      <col-sm-4>66666666</col-sm-4>
     </row>
-  </root>
+  </history>
 
-</book>
+</post>
